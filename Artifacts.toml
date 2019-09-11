@@ -1,0 +1,113 @@
+[[MbedTLS]]
+arch = "aarch64"
+git-tree-sha1 = "5568932590c182365ebd9d06737935f8cf25f7c7"
+libc = "glibc"
+os = "linux"
+
+    [[MbedTLS.download]]
+    sha256 = "0173c2f0434acd28a50de0df55a96bed0d56d1949225f06538b54002a00f0226"
+    url = "https://github.com/JuliaBinaryWrappers/MbedTLS_jll.jl/releases/download/MbedTLS-v2.16.0+0/MbedTLS.v2.16.0.aarch64-linux-gnu.tar.gz"
+[[MbedTLS]]
+arch = "x86_64"
+git-tree-sha1 = "3a3f3ba8a1111292b0773a902bbf5a2d6c4776fe"
+libc = "glibc"
+os = "linux"
+
+    [[MbedTLS.download]]
+    sha256 = "600d72ff496c419a880c4dd43ced98bcf2024be938d92f30e697958877179230"
+    url = "https://github.com/JuliaBinaryWrappers/MbedTLS_jll.jl/releases/download/MbedTLS-v2.16.0+0/MbedTLS.v2.16.0.x86_64-linux-gnu.tar.gz"
+[[MbedTLS]]
+arch = "armv7l"
+git-tree-sha1 = "d99a10dcfe5c82ba95984ac3119ba74c4c3e20a8"
+libc = "musl"
+os = "linux"
+
+    [[MbedTLS.download]]
+    sha256 = "e1664e26f1efc2845791bcbbe5f390cdf711e29c70877a81eb0249ccce32b994"
+    url = "https://github.com/JuliaBinaryWrappers/MbedTLS_jll.jl/releases/download/MbedTLS-v2.16.0+0/MbedTLS.v2.16.0.arm-linux-musleabihf.tar.gz"
+[[MbedTLS]]
+arch = "armv7l"
+git-tree-sha1 = "08ad360578d4f75217419b9eab1ac95a29ace4fb"
+libc = "glibc"
+os = "linux"
+
+    [[MbedTLS.download]]
+    sha256 = "8fba4a6da9acaafb78900e6c41db40c46a1c81c63336a457299330ead1516bc7"
+    url = "https://github.com/JuliaBinaryWrappers/MbedTLS_jll.jl/releases/download/MbedTLS-v2.16.0+0/MbedTLS.v2.16.0.arm-linux-gnueabihf.tar.gz"
+[[MbedTLS]]
+arch = "x86_64"
+git-tree-sha1 = "50e8716c5f8c2541017f3efdaff8b08a9849ea5b"
+os = "freebsd"
+
+    [[MbedTLS.download]]
+    sha256 = "29261746ea857593bbb47578e682f4de7b6526a967b5ab2213198cfd01321d0d"
+    url = "https://github.com/JuliaBinaryWrappers/MbedTLS_jll.jl/releases/download/MbedTLS-v2.16.0+0/MbedTLS.v2.16.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[MbedTLS]]
+arch = "x86_64"
+git-tree-sha1 = "de895af554e2cb4709066564d5ec992eb7990ac7"
+os = "macos"
+
+    [[MbedTLS.download]]
+    sha256 = "f79f39b5eaad0c33e1d49fcd7b96eba6d2a8ee448205d5d40871ebd0b87eeed4"
+    url = "https://github.com/JuliaBinaryWrappers/MbedTLS_jll.jl/releases/download/MbedTLS-v2.16.0+0/MbedTLS.v2.16.0.x86_64-apple-darwin14.tar.gz"
+[[MbedTLS]]
+arch = "aarch64"
+git-tree-sha1 = "6fcdaf802570f2240e4ef8a46397e4ac00cdf06c"
+libc = "musl"
+os = "linux"
+
+    [[MbedTLS.download]]
+    sha256 = "e40206078a70703af829249c4fbb75c2c18d38f4c45c4c900a39e3f0ee6f4603"
+    url = "https://github.com/JuliaBinaryWrappers/MbedTLS_jll.jl/releases/download/MbedTLS-v2.16.0+0/MbedTLS.v2.16.0.aarch64-linux-musl.tar.gz"
+[[MbedTLS]]
+arch = "powerpc64le"
+git-tree-sha1 = "bd9d4fa3e0f1a2c3ae16aba45bf873392f4a845d"
+libc = "glibc"
+os = "linux"
+
+    [[MbedTLS.download]]
+    sha256 = "781812edcc64dfa34bf0f0b2e1e8213e060a79ff523de708595a3d0f59555105"
+    url = "https://github.com/JuliaBinaryWrappers/MbedTLS_jll.jl/releases/download/MbedTLS-v2.16.0+0/MbedTLS.v2.16.0.powerpc64le-linux-gnu.tar.gz"
+[[MbedTLS]]
+arch = "i686"
+git-tree-sha1 = "bf5e06b09c0ffc211de07048de1e83eda678f4ac"
+os = "windows"
+
+    [[MbedTLS.download]]
+    sha256 = "93d04bf82c1abb0631de2c556e0a988228b649be97c7816e809ec0785094c9c1"
+    url = "https://github.com/JuliaBinaryWrappers/MbedTLS_jll.jl/releases/download/MbedTLS-v2.16.0+0/MbedTLS.v2.16.0.i686-w64-mingw32.tar.gz"
+[[MbedTLS]]
+arch = "i686"
+git-tree-sha1 = "6ae790fb680416a1cafd74021558b7bde4bd2de7"
+libc = "musl"
+os = "linux"
+
+    [[MbedTLS.download]]
+    sha256 = "f4032cc901e32ac247dbead1d0b94b2fa768dc42ab6d40f25fc4690b5eafeb52"
+    url = "https://github.com/JuliaBinaryWrappers/MbedTLS_jll.jl/releases/download/MbedTLS-v2.16.0+0/MbedTLS.v2.16.0.i686-linux-musl.tar.gz"
+[[MbedTLS]]
+arch = "x86_64"
+git-tree-sha1 = "b04097b1f7e3f20c05a320af89a6215d0c0a874a"
+os = "windows"
+
+    [[MbedTLS.download]]
+    sha256 = "f4eb20234bb6aa72d900ac07fcf7ceba88dba0e60c55e2935877752cddfc5e0b"
+    url = "https://github.com/JuliaBinaryWrappers/MbedTLS_jll.jl/releases/download/MbedTLS-v2.16.0+0/MbedTLS.v2.16.0.x86_64-w64-mingw32.tar.gz"
+[[MbedTLS]]
+arch = "x86_64"
+git-tree-sha1 = "f389b83004f2d694b92aaeb5f59fcb0af99f3a94"
+libc = "musl"
+os = "linux"
+
+    [[MbedTLS.download]]
+    sha256 = "ad0a1b1e1b9d810efe59c7eadcbb6d066798812f4fd46877677ac7d8fdc9cabd"
+    url = "https://github.com/JuliaBinaryWrappers/MbedTLS_jll.jl/releases/download/MbedTLS-v2.16.0+0/MbedTLS.v2.16.0.x86_64-linux-musl.tar.gz"
+[[MbedTLS]]
+arch = "i686"
+git-tree-sha1 = "d43806e09ba959d1e32d68369bba9b3ec4692282"
+libc = "glibc"
+os = "linux"
+
+    [[MbedTLS.download]]
+    sha256 = "8ef1119c2bc6df13441c9973255c2aab519e4df0bb0055a6afbece86ac0752d2"
+    url = "https://github.com/JuliaBinaryWrappers/MbedTLS_jll.jl/releases/download/MbedTLS-v2.16.0+0/MbedTLS.v2.16.0.i686-linux-gnu.tar.gz"
